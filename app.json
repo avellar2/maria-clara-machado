@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "maria-clara-machado",
+    "slug": "maria-clara-machado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
